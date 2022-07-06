@@ -1,3 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=10000000
-https://2754879781.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=ewsBAG8R3Aj7QP8W&secondToken=secondToken%3AtTnzOcjQbKu_bG4xCmcsNBgMNBg&sign=4f33953ed1d4de80f66d193cbc4fa3d0&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3762338&t=62c596db&v3=1
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://pull.zygmsg.com/leisu/1118197320907974.m3u8?auth_key=1657129200-0-0-70d35d49db917d7186396ab2d8006b4b
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+l
